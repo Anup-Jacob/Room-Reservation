@@ -6,7 +6,6 @@ A sample project created to implement the DevOps concepts in the reservation of 
 
   * [Table of Contents](#table-of-contents)
   * [Preamble](#preamble)
-  * [Scrum Master, Product Owner and Team Members] (#scrum-master-product-owner-team-members)
   * [Project Deadline](#project-deadline)
   * [Project Specification](#project-specification)
   * [Useful Links](#useful-links)
@@ -19,10 +18,6 @@ A sample project created to implement the DevOps concepts in the reservation of 
 This is the online repository for the "Room-Reservations". Summary of project requirements should go here.
 
 My product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that the culture of this project embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
-
-### Scrum Master, Product Owner and Team Members
-
-This is a practice project created by Anup Jacob as part of learning and implementing the coding and DevOps concepts into an application
 
   
 ### Project Deadline
