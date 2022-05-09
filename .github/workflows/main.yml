@@ -1,0 +1,16 @@
+name: CI-CD
+
+on:
+  push:
+    branches: [ Development ]
+  pull_request:
+    branches: [ Development ]
+
+jobs:
+
+  performance-testing:
+    needs: unit-testing
+    uses: devopslecturer/awmsc2022/.github/workflows/Jmeter.yml@Flask_Initial_Setup
+
+ 
+
